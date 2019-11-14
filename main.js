@@ -1,6 +1,5 @@
-alert("My program is alive!")
 $(updateView)
 
 function updateView() {
-    alert("Using jQUery!")
+    alert("Quentin's exercise 14")
 }
