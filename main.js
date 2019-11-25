@@ -15,7 +15,7 @@ function updateView() {
 add(2,3);
 //greeter is the function identifier. name is the functions
 //argument (info it needs to do its job)
-function add (num, num2){
+function add (num1, num2){
     answer = num1 + num2;
     console.log("the answer is: " + answer)
     return answer;
