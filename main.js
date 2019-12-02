@@ -7,9 +7,10 @@ const PI = 3.14159
 //function call means run the code
 // $(updateView)
 
-// function updateView() {
-//   $.getJSON(BASE_URL + "/rides/count" , updateRideCount)
-// }
+ //function updateView() {
+  //$.getJSON(BASE_URL + "/rides/count" , updateRideCount)
+ //}
+//{"2016":[{"9",220}, {"10", 141}, {"11",89}, {"12":12}]
 
 //call function add (use it - make it run)
 // add(2,3);
