@@ -55,8 +55,6 @@ function perYear(data) {
     my_data.push(data2017[10][11])  //add the data to the my_data array 
     console.log(data2017[11][12]) //print daya to the console to make sure we did it right
     my_data.push(data2017[11][12]) //add the data to the my_data array 
-    console.log(data2017[12][13])  //looks at the one-ith array element {"10":141} extract data for key 10
-    my_data.push(data2017[12][13])
     //keep going to get all data points
 
    
