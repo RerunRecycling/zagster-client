@@ -81,7 +81,7 @@ const PI = 3.14159
 //   $("h2#rideCount").html(numberOfRides)
 // }
 $(updateChart)
-alert ("hello")
+alert ("Welcome")
 function updateChart() {
 
 var ctx = document.getElementById('myChart').getContext('2d');
